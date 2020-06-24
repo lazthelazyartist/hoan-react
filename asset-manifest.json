@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoan-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hoan-react/static/js/main.d4c51922.chunk.js",
+    "main.js.map": "/hoan-react/static/js/main.d4c51922.chunk.js.map",
+    "runtime-main.js": "/hoan-react/static/js/runtime-main.fa4d9470.js",
+    "runtime-main.js.map": "/hoan-react/static/js/runtime-main.fa4d9470.js.map",
+    "static/js/2.296e00b7.chunk.js": "/hoan-react/static/js/2.296e00b7.chunk.js",
+    "static/js/2.296e00b7.chunk.js.map": "/hoan-react/static/js/2.296e00b7.chunk.js.map",
+    "index.html": "/hoan-react/index.html",
+    "precache-manifest.69315c26791229a3cc82245c1fcb736d.js": "/hoan-react/precache-manifest.69315c26791229a3cc82245c1fcb736d.js",
+    "service-worker.js": "/hoan-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hoan-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.296e00b7.chunk.js.LICENSE.txt": "/hoan-react/static/js/2.296e00b7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hoan-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa4d9470.js",
+    "static/js/2.296e00b7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d4c51922.chunk.js"
+  ]
+}
